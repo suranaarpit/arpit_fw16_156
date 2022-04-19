@@ -1,25 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import Day1 from './sprint-1/day-1/Day1';
+import Day1_2 from './sprint-1/day-1/Day1-2';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Day1 ></Day1>
+      {/* <Day1_2 ></Day1_2> */}
+    </>
   );
 }
 
 export default App;
+
