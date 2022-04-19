@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Day1 ></Day1>
-      {/* <Day1_2 ></Day1_2> */}
+      <Day1_2 ></Day1_2>
     </>
   );
 }
