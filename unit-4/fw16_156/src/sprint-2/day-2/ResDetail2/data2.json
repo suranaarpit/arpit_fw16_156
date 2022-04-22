@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "total_votes": 1386,
+    "total_reviews": 715,
+    "total_cost": 705,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 4.0,
+    "name": "Baluchi – A Pan Indian Destination",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/09/00/b8/77/baluchi.jpg"
+  },
+  {
+    "id": 2,
+    "total_votes": 301,
+    "total_reviews": 315,
+    "total_cost": 568,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 2.0,
+    "name": "Dasaprakash",
+    "img": "https://images.happycow.net/venues/1024/10/09/hcmp100986_304359.jpeg"
+  },
+  {
+    "id": 3,
+    "total_votes": 904,
+    "total_reviews": 114,
+    "total_cost": 1550,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 4.5,
+    "name": "Govindam Retreat",
+    "img": "https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/restaurant%2F656145%2Frestaurant020180723103202.jpg"
+  },
+  {
+    "id": 4,
+    "total_votes": 623,
+    "total_reviews": 169,
+    "total_cost": 1690,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 5.0,
+    "name": "Unique Brew Cafe",
+    "img": "https://b.zmtcdn.com/data/pictures/9/120539/8175e5865b0aba595dcb0c8aacdf80a4.jpg?fit=around|750:500&crop=750:500;*,*"
+  },
+  {
+    "id": 5,
+    "total_votes": 1340,
+    "total_reviews": 1000,
+    "total_cost": 1122,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 3.0,
+    "name": "Shree Krishna Bakery",
+    "img": "https://content3.jdmagicbox.com/comp/ahmedabad/m9/079pxx79.xx79.130805181920.w6m9/catalogue/shree-krishna-bakery-thakkarbapa-nagar-ahmedabad-cake-shops-jz6joj7qbz.jpg"
+  },
+  {
+    "id": 6,
+    "total_votes": 363,
+    "total_reviews": 1500,
+    "total_cost": 547,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 2.5,
+    "name": "The Curry Spoon",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/12/2b/22/ae/the-royal-root-authentic.jpg"
+  },
+  {
+    "id": 7,
+    "total_votes": 642,
+    "total_reviews": 2000,
+    "total_cost": 894,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 5.0,
+    "name": "Monarch Restaurant",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/14/1d/d3/cc/monarch-all-day-dining.jpg"
+  },
+  {
+    "id": 8,
+    "total_votes": 317,
+    "total_reviews": 317,
+    "total_cost": 2484,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 4.0,
+    "name": "INDIAN ZAIKA",
+    "img": "https://res.cloudinary.com/simplotel/image/upload/x_0,y_53,w_720,h_405,r_0,c_crop,q_60,fl_progressive/w_900,f_auto,c_fit/traditional-heritage-haveli-hotel-jaipur/Zaika_Rest._cw5ca6"
+  },
+  {
+    "id": 9,
+    "total_votes": 1227,
+    "total_reviews": 500,
+    "total_cost": 200,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 1.5,
+    "name": "Evershine Kerala Restaurant",
+    "img": "https://lh5.googleusercontent.com/p/AF1QipNbLUrGp1o9ELAxmhr5-VUIKZNz1_fk65YOBg_x=w1440-h814-k-no"
+  },
+  {
+    "id": 10,
+    "total_votes": 864,
+    "total_reviews": 1020,
+    "total_cost": 5241,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "rating": 5.0,
+    "name": "Luv - Kush",
+    "img": "https://ak-d.tripcdn.com/images/0221t1200082k6ypd4479_R_550_412_R5_Q70_D.jpg"
+  },
+  {
+    "total_votes": 938,
+    "total_reviews": 565,
+    "total_cost": 5124,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3e/97/c2/upper-view.jpg",
+    "rating": 4.9,
+    "name": "Pushkar Divine"
+  },
+  {
+    "total_votes": 2202,
+    "total_reviews": 2000,
+    "total_cost": 5830,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://scontent.fktu2-1.fna.fbcdn.net/v/t1.6435-9/131437527_206720764278304_6086999066043031438_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=9267fe&_nc_ohc=QCwMCwwb3TQAX8QG5nl&_nc_ht=scontent.fktu2-1.fna&oh=00_AT9ZL4tky1DZP-XOeB_20w0Y2rFfy7vWqHMQSRorGfefVg&oe=6287C7D5",
+    "rating": 5.0,
+    "name": "Kishangarh Darbar"
+  },
+  {
+    "total_votes": 1089,
+    "total_reviews": 646,
+    "total_cost": 599,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://content.jdmagicbox.com/comp/barwani/q2/9999p7290.7290.180226074514.p8q2/catalogue/bawarchi-the-restaurant-barwani-restaurants-jgapd.jpg?clr=#1a334d?fit=around%7C270%3A130&crop=270%3A130%3B%2A%2C%2A",
+    "rating": 3.7,
+    "name": "Bawarchi"
+  },
+  {
+    "total_votes": 1636,
+    "total_reviews": 477,
+    "total_cost": 436,
+    "payment_methods": {
+      "card": true,
+      "cash": false,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-p/14/a6/26/f3/photo4jpg.jpg",
+    "rating": 3.5,
+    "name": "The Indian Grill"
+  },
+  {
+    "total_votes": 837,
+    "total_reviews": 796,
+    "total_cost": 608,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://b.zmtcdn.com/data/pictures/1/18689681/4ac934051641069e3279dbad7c253ac4.jpg",
+    "rating": 4.3,
+    "name": "The Imperial Spice"
+  },
+  {
+    "total_votes": 794,
+    "total_reviews": 318,
+    "total_cost": 299,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://b.zmtcdn.com/data/pictures/1/18689681/d7f05a009ab27f25ae66083e7e7980c0.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+    "rating": 4.1,
+    "name": "The Maharaja Club"
+  },
+  {
+    "total_votes": 311,
+    "total_reviews": 227,
+    "total_cost": 1538,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://10619-2.s.cdn12.com/rests/original/802_501947901.jpg",
+    "rating": 4.5,
+    "name": "The Great Indian Kitchen"
+  },
+
+  {
+    "total_votes": 255,
+    "total_reviews": 886,
+    "total_cost": 358,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "http://www.indiamarks.com/wp-content/uploads/restaurant_ambrosia-restaurant_in_ajmer.jpg",
+    "rating": 3.1,
+    "name": "Dilli ki Rasoi"
+  },
+  {
+    "total_votes": 1268,
+    "total_reviews": 209,
+    "total_cost": 306,
+    "payment_methods": {
+      "card": false,
+      "cash": true,
+      "upi": true
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/10/f4/1b/81/excellenceee-restaurant.jpg",
+    "rating": 4.6,
+    "name": "Masala Chowk"
+  },
+  {
+    "total_votes": 641,
+    "total_reviews": 579,
+    "total_cost": 899,
+    "payment_methods": {
+      "card": true,
+      "cash": true,
+      "upi": false
+    },
+    "category": "Ethnic, Fast food, Casual dining, Asian",
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/0d/b3/a0/30/we-offer-a-wide-variety.jpg",
+    "rating": 3.5,
+    "name": "Oh! Bambai"
+  }
+]
