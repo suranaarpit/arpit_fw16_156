@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  /* :root{
+      background-color: coral;
+  } */
+  /* #root{
+      background-color: coral;
+  } */
+  
+  #container {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+    align-items: center;
+    height: 90vh;
+    margin-top: 40px;
+    padding: 20px;
+    overflow: auto;
+    background-color: hsl(172, 45%, 94%);
+    border: 8px solid darkblue;
+    
+  }
+
+  #heading{
+      color: rgb(41, 95, 187);
+      /* background-color: black; */
+      font-size: 35px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+  }
+  
+  #container > div > input,
+  #container > div > .Additem {
+    background-color: #fff;
+    border-radius: 12px;
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0px 6px;
+    text-transform: uppercase;
+  }
+  .Additem{
+      background: transparent;
+      width: 65px;
+      height: 50px;
+      cursor: pointer;
+     position: absolute;
+     border-radius: 12px;
+     right: 530px;
+     top: 120px;
+  }
+
+  .todoItem {
+    background-color: #fff;
+    margin-top: 10px;
+    padding: 2px 20px;
+    width: fit-content;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  .todoItem>h1{
+      font-size: 25px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      font-weight: 500;
+      text-decoration: underline;
+  }
+  
+  .dltBtn {
+    /* border: 2px solid hsl(171, 21%, 80%); */
+    font-size: 12px;
+    background: transparent;
+      width: 35px;
+      height: 30px;
+      cursor: pointer;
+      position: fixed;
+      right: 420px;
+  }
