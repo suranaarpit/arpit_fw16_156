@@ -26,7 +26,7 @@ const ReactTimer = ({ startTime, endTime }) => {
       <div className="mainDivTimer">
         <h1>React Timer</h1>
         <div className="timerSec"><h2>{time}s</h2></div>
-        <button style={{border: "none", cursor: "pointer", color: "white", background: "black"}} onClick={() => setTime(0)}>Reset</button>
+        <button className="resetBtn" onClick={() => setTime(0)}>Reset</button>
       </div>
       <br />
       <br />

@@ -14,6 +14,12 @@ h1{
 h2{
     color: darkorange;
 }
+.resetBtn{
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: black;
+}
 
 .timerSec{
     width: fit-content;
