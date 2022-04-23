@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Arpit Surana",
+      "age": "20",
+      "marry": false,
+      "address": "Kishangarh City",
+      "dept": "IT",
+      "salary": "2500000"
+    },
+    {
+      "id": 2,
+      "name": "Vishal Surana",
+      "age": "25",
+      "marry": false,
+      "address": "Jaipur",
+      "dept": "HR",
+      "salary": "5000000"
+    },
+    {
+      "id": 3,
+      "name": "Kunal Surana",
+      "age": "24",
+      "marry": false,
+      "address": "Kishangarh City",
+      "dept": "HR",
+      "salary": "3500000"
+    },
+    {
+      "id": 4,
+      "name": "Aman Gupta",
+      "age": "35",
+      "marry": true,
+      "address": "Sales & Marketing",
+      "dept": "MD",
+      "salary": "10000000"
+    },
+    {
+      "id": 5,
+      "name": "Ashneer Grover",
+      "age": "40",
+      "marry": true,
+      "address": "Sales & Marketing",
+      "dept": "MD",
+      "salary": "15000000"
+    }
+  ]
+}
