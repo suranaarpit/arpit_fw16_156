@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-miui": "^0.15.4",
+    "styled-components": "^5.3.5"
+  }
+}
