@@ -5,7 +5,7 @@ const FData = ({ empData, setempData }) => {
   useEffect(() => {
     const getData = async () => {
       try {
-        let res = await fetch(`http://localhost:3000/employee`);
+        let res = await fetch(`http://localhost:3001/employee`);
         let data = await res.json();
         setempData(data);
       } catch (error) {

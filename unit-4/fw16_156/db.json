@@ -26,24 +26,6 @@
       "address": "Kishangarh City",
       "dept": "HR",
       "salary": "3500000"
-    },
-    {
-      "id": 4,
-      "name": "Aman Gupta",
-      "age": "35",
-      "marry": true,
-      "address": "Sales & Marketing",
-      "dept": "MD",
-      "salary": "10000000"
-    },
-    {
-      "id": 5,
-      "name": "Ashneer Grover",
-      "age": "40",
-      "marry": true,
-      "address": "Sales & Marketing",
-      "dept": "MD",
-      "salary": "15000000"
     }
   ]
 }
