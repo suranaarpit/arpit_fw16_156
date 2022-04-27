@@ -1,10 +1,10 @@
 import React from "react";
-import Form from "./Forms/Form";
+// import Form from "./Forms/Form";
 
 const Sprint2Day3 = () => {
   return (
     <div>
-      <Form />
+      {/* <Form /> */}
     </div>
   );
 };
