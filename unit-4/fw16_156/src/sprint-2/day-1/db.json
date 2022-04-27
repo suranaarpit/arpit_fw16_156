@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "value": "React",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "value": "Angular",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "value": "Vue",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
