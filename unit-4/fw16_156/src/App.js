@@ -8,7 +8,7 @@ import React from "react";
 // import Sprint2Day2 from './sprint-2/day-2/Sprint2Day2';
 // import Sprint2Day3 from "./sprint-2/day-3/Sprint2Day3";
 // import Sprint3Day1 from "./sprint-3/day-1/Sprint3Day1";
-import Main from "./sprint-3/day-1/ReactCreditCard/Main";
+// import Main from "./sprint-3/day-1/ReactCreditCard/Main";
 
 function App() {
   return (
@@ -20,7 +20,7 @@ function App() {
       {/* <Sprint2Day2></Sprint2Day2> */}
       {/* <Sprint2Day3></Sprint2Day3> */}
       {/* <Sprint3Day1></Sprint3Day1> */}
-      <Main />
+      {/* <Main /> */}
     </>
   );
 }

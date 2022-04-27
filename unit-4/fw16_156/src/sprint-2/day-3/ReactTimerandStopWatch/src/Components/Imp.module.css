@@ -1,0 +1,46 @@
+.container {
+  width: 600px;
+  margin: 80px auto;
+  display: flex;
+  padding: 20px;
+  border-radius: 12px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* box-shadow: rgba(247, 232, 232, 0.24) 0px 3px 8px;
+  border: .4px solid grey; */
+  background: url(https://wallpaperaccess.com/full/6383316.jpg);
+}
+
+.nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav > button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  text-transform: uppercase;
+  width: 50%;
+  padding: 10px 0px;
+}
+
+.active {
+  color: darkblue;
+  border-bottom: 2px solid darkblue !important;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: .5px solid grey;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
