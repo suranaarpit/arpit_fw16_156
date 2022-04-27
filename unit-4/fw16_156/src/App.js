@@ -9,6 +9,7 @@ import React from "react";
 // import Sprint2Day3 from "./sprint-2/day-3/Sprint2Day3";
 // import Sprint3Day1 from "./sprint-3/day-1/Sprint3Day1";
 // import Main from "./sprint-3/day-1/ReactCreditCard/Main";
+import { Sprint3D2 } from "./sprint-3/day-2/Sprint3Day2";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       {/* <Sprint2Day3></Sprint2Day3> */}
       {/* <Sprint3Day1></Sprint3Day1> */}
       {/* <Main /> */}
+      <Sprint3D2></Sprint3D2>
     </>
   );
 }
