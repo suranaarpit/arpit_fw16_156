@@ -1,0 +1,468 @@
+{
+  "mainPage": [
+    {
+      "id": 1,
+      "category": "Smartphone",
+      "pBrand": "Samsung",
+      "pName": "Samsung Galaxy M53 5G",
+      "pImg": "https://m.media-amazon.com/images/I/71MaDLgHnxL._SL1500_.jpg",
+      "pDetail": "Segment Best 108MP Quad Camera Setup, with exciting features like Single Take, Object Eraser, and Photo Remaster. 6.7-inch Super AMOLED Plus Display, FHD+ resolution, 1080x2400 pixels with 120Hz Refresh Rate. MTK D900 Octa Core 2.4GHz 6nm Processor with 4x4 Mimo Band support for a HyperFast 5G experience. Massive 5000 mAh Battery | Memory, Storage & SIM: 6GB RAM | RAM Plus upto 6GB |128GB internal memory expandable up to 1TB. Latest Android v12.0, One UI 4 operating system",
+      "pAmount": "₹26,499.00"
+    },
+    {
+      "id": 2,
+      "category": "Smartphone",
+      "pBrand": "Apple",
+      "pName": "Apple iPhone 12 (64GB) - Blue",
+      "pImg": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SL1500_.jpg",
+      "pDetail": "6.1-inch (15.5 cm diagonal) Super Retina XDR display. Ceramic Shield, tougher than any smartphone glass. A14 Bionic chip, the fastest chip ever in a smartphone. Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording. Supports MagSafe accessories for easy attach and faster wireless charging. iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",
+      "pAmount": "₹54,900.00"
+    },
+    {
+      "id": 3,
+      "category": "Smartphone",
+      "pBrand": "Oppo",
+      "pName": "OPPO A31 (Fantasy White, 6GB RAM, 128GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/61CnyJ-IbML._SL1500_.jpg",
+      "pDetail": "12+2+2MP triple rear camera (12MP main camera+2MP macro lens+2MP depth camera) with Portrait bokeh, macro lens, dazzle color mode, AI beautification | 8MP front camera. Box also includes: USB cable, Sim tray ejecter, pre-applied screen protector and protective case, booklet with warranty card and quick guide. The box does not include earphones",
+      "pAmount": "₹11,990.00"
+    },
+    {
+      "id": 4,
+      "category": "Laptop",
+      "pBrand": "Lenovo",
+      "pName": "Lenovo IdeaPad 3 Intel Celeron N4020 14'' HD Thin & Light Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/61s7sJEpsVL._SL1000_.jpg",
+      "pDetail": "Intel Celeron N4020 | Speed: 1.1 GHz (Base) - 2.8 GHz (Max) | 2 Cores | 4MB Cache. Pre-Loaded Windows 11 Home with Lifetime Validity.Pre-Installed: MS Office Home and Student 2021. Memory and Storage: 4GB RAM DDR4 | 256GB SSD. Display: 14 HD (1366x768) | Brightness : 220nits | Anti-Glare. Design: 1.99 cm Thin and 1.5 kg Light | Narrow Bezel. Battery Life: 35Wh | Upto 10 Hours battery life",
+      "pAmount": "₹28,115.00"
+    },
+    {
+      "id": 5,
+      "category": "Laptop",
+      "pBrand": "Apple",
+      "pName": "2020 Apple MacBook Air Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/71vFKBpKakL._SL1500_.jpg",
+      "pDetail": "Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Gold",
+      "pAmount": "₹84,990.00"
+    },
+    {
+      "id": 6,
+      "category": "Accessories",
+      "pBrand": "Spigen",
+      "pName": "Spigen EZ Fit Tempered Glass Screen Protector Guard for iPhone 13/13 Pro - 2 Pack",
+      "pImg": "https://m.media-amazon.com/images/I/61vEzFd6mVL._SL1000_.jpg",
+      "pDetail": "Compatibility ; Glass Screen Protector Compatible with iPhone 13 / 13 Pro. 9H Hardness ; Tempered glass durability rated at 9H hardness to protect from everyday scratches. Case friendly ; Made case compatible with Spigen case. Oil-free ; Oleophobic coating for daily fingerprint resistance. Edge to Edge Protection ; All-around adhesive covers the screen with no lifting",
+      "pAmount": "₹999.00"
+    },
+    {
+      "id": 7,
+      "category": "Accessories",
+      "pBrand": "Ringke",
+      "pName": "Ringke Fusion Compatible with iPhone 13 Case Back Cover Transparent",
+      "pImg": "https://m.media-amazon.com/images/I/71L4AV9Um9L._SL1500_.jpg",
+      "pDetail": "Compatibility : iPhone 13, 2x Transparency : Show off your new phone with Ringke Clear Case. Protection : Durable PC clear cover and TPU bumper protects the display and sides. Anti-Static Components : Prevents your device from accumulating dirt and dust. Duo-QuikCatch : Lanyard holes are available on both sides for versatility and utility. Make the device adaptable by using a variety of straps. (Straps not included)",
+      "pAmount": "₹1,099.00"
+    },
+    {
+      "id": 8,
+      "category": "Speakers",
+      "pBrand": "Sony",
+      "pName": "Sony HT-A7000 9.1.2ch 8k/4k Dolby Atmos Soundbar",
+      "pImg": "https://m.media-amazon.com/images/I/819BKGshxiL._SL1500_.jpg",
+      "pDetail": "360 Spatial Sound Mapping : 360 Spatial Sound Mapping technology creates up to twelve phantom speakers from just four real speakers to give you most immersive and real surround sound. Dolby Atmos : Feel the thrill of movies in stunning 7.1.2ch Dolby Atmos/DTS: X. Sound Filed Optimization: Sound Field Optimization calibrates to your environment to provide the best sound. Uprfiring Speaker : Reflect the sound off the ceiling for immersive overhead audio combine with vertical surround engine to give you an even more atmospheric overhead sound experience",
+      "pAmount": "₹1,93,980.00"
+    }
+  ],
+
+  "smartphone": [
+    {
+      "id": 1,
+      "category": "Smartphone",
+      "pBrand": "Samsung",
+      "pName": "Samsung Galaxy M53 5G (Mystique Green, 6GB, 128GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/71MaDLgHnxL._SL1500_.jpg",
+      "pDetail": "Segment Best 108MP Quad Camera Setup, with exciting features like Single Take, Object Eraser, and Photo Remaster. 6.7-inch Super AMOLED Plus Display, FHD+ resolution, 1080x2400 pixels with 120Hz Refresh Rate. MTK D900 Octa Core 2.4GHz 6nm Processor with 4x4 Mimo Band support for a HyperFast 5G experience. Massive 5000 mAh Battery | Memory, Storage & SIM: 6GB RAM | RAM Plus upto 6GB |128GB internal memory expandable up to 1TB. Latest Android v12.0, One UI 4 operating system",
+      "pAmount": "₹26,499.00"
+    },
+    {
+      "id": 2,
+      "category": "Smartphone",
+      "pBrand": "Samsung",
+      "pName": "Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/71r69Y7BSeL._SL1500_.jpg",
+      "pDetail": "48MP+5MP+2MP+2MP Quad camera setup- True 48MP (F 2.0) main camera + 5MP (F2.2) Ultra wide camera+ 2MP (F2.4) depth camera + 2MP (2.4) Macro Camera| 8MP (F2.2) front came. 6000mAH lithium-ion battery, 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase. Android 11, v11.0 operating system,One UI 3.1, with 8nm Power Efficient Exynos850 (Octa Core 2.0GH, 16.55 centimeters (6.5-inch) HD+ TFT LCD - infinity v-cut display,90Hz screen refresh rate, HD+ resolution with 720 x 1600 pixels resolution, 269 PPI with 16M color. Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 1TB",
+      "pAmount": "₹11,499.00"
+    },
+    {
+      "id": 3,
+      "category": "Smartphone",
+      "pBrand": "Samsung",
+      "pName": "Samsung Galaxy Z Fold3 5G",
+      "pImg": "https://m.media-amazon.com/images/I/71MmJNwZcML._SL1500_.jpg",
+      "pDetail": "Main Display - 19.19cm (7'6) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Cover Display - 15.82cm (6.2”) Infinity-O Display, Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro (Sold separately). 5G Ready powered by Qualcomm Snapdragon 888 Octa-Core processor. IPX8 Rated for Water Resistance,  Corning Gorilla Glass Victus, Armor Aluminium frame. Fingerprint Sensor (side) & Facial recognition. Dual Sim (1Nano Sim + 1 Nano Sim/eSIM)",
+      "pAmount": "₹1,57,999.00"
+    },
+    {
+      "id": 4,
+      "category": "Smartphone",
+      "pBrand": "Apple",
+      "pName": "Apple iPhone 12 (128GB) - Blue",
+      "pImg": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SL1500_.jpg",
+      "pDetail": "6.1-inch (15.5 cm diagonal) Super Retina XDR display. Ceramic Shield, tougher than any smartphone glass. A14 Bionic chip, the fastest chip ever in a smartphone.Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording. 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording. Industry-leading IP68 water resistance. Supports MagSafe accessories for easy attach and faster wireless charging. iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",
+      "pAmount": "₹59,999.00"
+    },
+    {
+      "id": 5,
+      "category": "Smartphone",
+      "pBrand": "Apple",
+      "pName": "Apple iPhone 13 Pro Max (256GB) - Graphite",
+      "pImg": "https://m.media-amazon.com/images/I/61IJBsHm97L._SL1500_.jpg",
+      "pDetail": "17 cm (6.7-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel.Cinematic mode adds shallow depth of field and shifts focus automatically in your videos. Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording. 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording. A15 Bionic chip for lightning-fast performance. Up to 28 hours of video playback, the best battery life ever in an iPhone. Durable design with Ceramic Shield",
+      "pAmount": "₹1,39,900.00"
+    },
+    {
+      "id": 6,
+      "category": "Smartphone",
+      "pBrand": "Redmi",
+      "pName": "Redmi 10 Prime (Phantom Black 4GB RAM 64GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/817clKAKcqL._SL1500_.jpg",
+      "pDetail": "Processor: MediaTek Helio G88 Octa-core processor with HyperEngine 2.0 ; Up to 2.0GHz clock speed; Battery: 6000mAh battery with 18W fast charging support. Upto 9W reverse charging. In box - 22.5W wired charger. Display: 6.5 inch FHD+ (2400x1080) Dot display with 90Hz high refresh rate and adaptive refresh rate technology; ; 180Hz touch sampling, Memory, Storage : 4GB LPDDR4X RAM | 64GB Internal storage",
+      "pAmount": "₹12,499.00"
+    },
+    {
+      "id": 7,
+      "category": "Smartphone",
+      "pBrand": "Apple",
+      "pName": "Apple iPhone 13 Pro Max (128 GB) - Alpine Green",
+      "pImg": "https://m.media-amazon.com/images/I/611ovP2GkrL._SL1500_.jpg",
+      "pDetail": "17 cm (6.7-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel. Cinematic mode adds shallow depth of field and shifts focus automatically in your videos, Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording. 12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording, A15 Bionic chip for lightning-fast performance. Up to 28 hours of video playback, the best battery life ever in an iPhone. Durable design with Ceramic Shield",
+      "pAmount": "₹1,29,900.00"
+    },
+    {
+      "id": 8,
+      "category": "Smartphone",
+      "pBrand": "Oppo",
+      "pName": "OPPO A31 (Fantasy White, 6GB RAM, 128GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/61CnyJ-IbML._SL1500_.jpg",
+      "pDetail": "12+2+2MP triple rear camera (12MP main camera+2MP macro lens+2MP depth camera) with Portrait bokeh, macro lens, dazzle color mode, AI beautification | 8MP front camera. 16.5 centimeters (6.5-inch) waterdrop multi touch screen with an 89% screen to body ratio | 1600 x 720 pixels resolution, 269 ppi pixel density, Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G), Android Pie v9.0 based on ColorOS 6.1 operating system with 2.3GHz Mediatek 6765 octa core processor, IMG GE8320, 4230mAH lithium-polymer battery providing talk-time of 45 hours and standby time of 450 hours",
+      "pAmount": "₹11,990.00"
+    },
+    {
+      "id": 9,
+      "category": "Smartphone",
+      "pBrand": "Vivo",
+      "pName": "Vivo V23 5G (Stardust Black, 8GB RAM 128GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/31qY4RIpdTL.jpg",
+      "pDetail": "8 GB RAM | 128 GB ROM, 16.36 cm (6.44 inch) Full HD+ Display, 64MP + 8MP + 2MP | 50MP + 8MP Dual Front Camera, 4200 mAh Lithium Battery, Mediatek Dimensity 920 Processor, Connector type: 3.5mm jack",
+      "pAmount": "₹30,990.00"
+    },
+    {
+      "id": 10,
+      "category": "Smartphone",
+      "pBrand": "OnePlus",
+      "pName": "OnePlus Nord 2 5G (Gray Sierra, 8GB RAM, 128GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/71KVeQql77S._SL1500_.jpg",
+      "pDetail": "Camera: Sony IMX 766 50MP+8MP+2MP AI Triple Camera with 4K@30FPS|1080p video at 30/60 fps | 32MP Front camera with 1080p video at 30/60 fps | Super Slow Motion: 1080p video at 120 fps, 720p video at 240 fps | Time-Lapse: 1080p 120fps;720p 240fps. Chipset: MediaTek Dimensity 1200-AI - The octa-core Dimensity 1200-AI features one of the fastest smartphone CPUs ever: the 3GHz Arm Cortex-A78 provides the most immediate response, with up to 22% faster CPU performance while also being 25% more power-efficient versus the previous generation. Display: 6.43-inch, 90Hz Fluid AMOLED display | Resolution: 2400 x 1080 pixels | 410 PPI | Aspect Ratio: 20:9 | Support sRGB, Display P3, Memory, Storage & SIM: 8GB RAM | 128GB internal memory on UFS 3.1 storage system. Connectivity: Dual SIM (nano + nano) | Currently supports dual 5G SIM Cards. Operating System: OxygenOS 11.3 operating system based on Android 11",
+      "pAmount": "₹29,999.00"
+    },
+    {
+      "id": 11,
+      "category": "Smartphone",
+      "pBrand": "Samsung",
+      "pName": "Samsung Galaxy Z Flip3 5G with Snapdragon 888",
+      "pImg": "https://m.media-amazon.com/images/I/41-4b1s4GOL._SL1422_.jpg",
+      "pDetail": "A full-sized smartphone that folds to fit small-sized pockets. This visually awesome and 4.2'' folded compact design delivers the ultimate portability for every move you make.",
+      "pAmount": "₹63,320.00"
+    },
+    {
+      "id": 12,
+      "category": "Smartphone",
+      "pBrand": "Realme",
+      "pName": "realme 8i",
+      "pImg": "https://m.media-amazon.com/images/I/41SayBJQRYL.jpg",
+      "pDetail": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB, 16.76 cm (6.6 inch) Full HD+ Display | 50MP + 2MP + 2MP | 16MP Front Camera, 5000 mAh Battery, MediaTek Helio G96 Processor",
+      "pAmount": "₹12,320.00"
+    },
+    {
+      "id": 13,
+      "category": "Smartphone",
+      "pBrand": "iQOO",
+      "pName": "iQOO Z3 5G",
+      "pImg": "https://m.media-amazon.com/images/I/61uIgwiP90S._SL1200_.jpg",
+      "pDetail": "Qualcomm Snapdragon 768G 5G processor, 7nm chip and octa-core processor. 55W FlashCharge can charge the 4400mAh battery up to 50% in just 19 minutes* and a full charge in just 50 minutes* | 64MP AF Main Camera with f/1.79 Aperture supported by GW3 sensor loaded with professional features like 4K videos @ 60FPS, EFB Autofocus Tracking and more. The device also comes with a 16MP Front Camera. 120Hz Refresh Rate | 180Hz Touch Sampling Rate. Five-layer liquid cooling system can reduce the core temperature by 10 degrees. 2 Years of Software Updates and 3 Years of Android Security Patches.",
+      "pAmount": "₹20,990.00"
+    },
+    {
+      "id": 14,
+      "category": "Smartphone",
+      "pBrand": "Redmi",
+      "pName": "Redmi Note 10S",
+      "pImg": "https://m.media-amazon.com/images/I/81B0HJigO-L._SL1500_.jpg",
+      "pDetail": "Display: FHD+ (1080x2400) AMOLED Dot display; 16.33 centimeters (6.43 inch); 20:9 aspect ratio. Camera: 64 MP Quad Rear camera with 8MP Ultra-wide, 2MP Macro and Portrait lens| 13 MP Front camera. Processor: MediaTek Helio G95 Octa-core; 12nm process; Up to 2.05GHz clock speed. Battery: 5000 mAh large battery with 33W fast charger in-box and Type-C connectivity. Memory, Storage & SIM: 6GB RAM | 64GB UFS 2.2 storage expandable up to 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual standby (4G+4G). Alexa Hands-Free capable: Download the Alexa app on to use Alexa hands-free. Play music, make calls, hear news, open apps, navigate, and more, using just your voice, while on-the-go. Just ask and Alexa will respond instantly.",
+      "pAmount": "₹13,999.00"
+    },
+    {
+      "id": 15,
+      "category": "Smartphone",
+      "pBrand": "Realme",
+      "pName": "Realme narzo 50i",
+      "pImg": "https://m.media-amazon.com/images/I/61PGb+YfZWL._SL1500_.jpg",
+      "pDetail": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB | 16.51 cm (6.5 inch) HD+ Display | 8MP Primary Camera | 5MP Front Camera | 5000 mAh Battery, Octa-core Processor",
+      "pAmount": "₹8,999.00"
+    },
+    {
+      "id": 16,
+      "category": "Smartphone",
+      "pBrand": "OnePlus",
+      "pName": "OnePlus 9RT 5G",
+      "pImg": "https://m.media-amazon.com/images/I/61KnXoTQQ4L._SL1500_.jpg",
+      "pDetail": "Camera: 50MP Main Camera with Sony IMX 766 Lens (OIS enabled), 16MP Ultra-wide angle camera & 2MP Macro lens; Front (Selfie) Camera: 16MP; Flash: Dual LED | Camera Features: Night Mode, Macro Mode, Scene Enhancement, Portrait Mode, Pro Mode, Panorama, Video Portrait, Slow Motion, Dual-view, Long Exposure Mode, Movie Mode. Screen: 6.62 Inches; 120 Hz Fluid AMOLED; Resolution: 2400 x 1080; Aspect Ratio: 20:9; Cover Glass: Corning Gorilla Glass, Operating System: OxygenOS based on Android 11 | Processor: Qualcomm Snapdragon 888 | Battery & Charging: 4,500 mAh with 65T Warp Charge, 5G Enabled",
+      "pAmount": "₹46,999.00"
+    },
+    {
+      "id": 17,
+      "category": "Smartphone",
+      "pBrand": "Apple",
+      "pName": "Apple iPhone 12 (64GB) - Blue",
+      "pImg": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SL1500_.jpg",
+      "pDetail": "6.1-inch (15.5 cm diagonal) Super Retina XDR display. Ceramic Shield, tougher than any smartphone glass. A14 Bionic chip, the fastest chip ever in a smartphone. Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording. Supports MagSafe accessories for easy attach and faster wireless charging. iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",
+      "pAmount": "₹54,900.00"
+    },
+    {
+      "id": 18,
+      "category": "Smartphone",
+      "pBrand": "Oppo",
+      "pName": "OPPO A31 (Fantasy White, 6GB RAM, 128GB Storage)",
+      "pImg": "https://m.media-amazon.com/images/I/61CnyJ-IbML._SL1500_.jpg",
+      "pDetail": "12+2+2MP triple rear camera (12MP main camera+2MP macro lens+2MP depth camera) with Portrait bokeh, macro lens, dazzle color mode, AI beautification | 8MP front camera. 16.5 centimeters (6.5-inch) waterdrop multi touch screen with an 89% screen to body ratio | 1600 x 720 pixels resolution, 269 ppi pixel density, Memory, Storage & SIM: 6GB RAM | 128GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G), Android Pie v9.0 based on ColorOS 6.1 operating system with 2.3GHz Mediatek 6765 octa core processor, IMG GE8320, 4230mAH lithium-polymer battery providing talk-time of 45 hours and standby time of 450 hours",
+      "pAmount": "₹11,990.00"
+    },
+    {
+      "id": 19,
+      "category": "Smartphone",
+      "pBrand": "Realme",
+      "pName": "Realme narzo 50i",
+      "pImg": "https://m.media-amazon.com/images/I/61PGb+YfZWL._SL1500_.jpg",
+      "pDetail": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB | 16.51 cm (6.5 inch) HD+ Display | 8MP Primary Camera | 5MP Front Camera | 5000 mAh Battery, Octa-core Processor",
+      "pAmount": "₹8,999.00"
+    },
+    {
+      "id": 20,
+      "category": "Smartphone",
+      "pBrand": "iQOO",
+      "pName": "iQOO Z3 5G",
+      "pImg": "https://m.media-amazon.com/images/I/61uIgwiP90S._SL1200_.jpg",
+      "pDetail": "Qualcomm Snapdragon 768G 5G processor, 7nm chip and octa-core processor. 55W FlashCharge can charge the 4400mAh battery up to 50% in just 19 minutes* and a full charge in just 50 minutes* | 64MP AF Main Camera with f/1.79 Aperture supported by GW3 sensor loaded with professional features like 4K videos @ 60FPS, EFB Autofocus Tracking and more. The device also comes with a 16MP Front Camera. 120Hz Refresh Rate | 180Hz Touch Sampling Rate. Five-layer liquid cooling system can reduce the core temperature by 10 degrees. 2 Years of Software Updates and 3 Years of Android Security Patches.",
+      "pAmount": "₹20,990.00"
+    }
+  ],
+
+  "laptops": [
+    {
+      "id": 1,
+      "category": "Laptop",
+      "pBrand": "Asus",
+      "pName": "ASUS VivoBook 15 (2021)",
+      "pImg": "https://m.media-amazon.com/images/I/71S8U9VzLTL._SL1500_.jpg",
+      "pDetail": "Processor: Intel Celeron N4020, 1.1 GHz base speed, Up to 2.8 GHz Turbo Speed, 2 cores, 2 Threads, 4MB Cache | Memory & Storage: 4GB SO-DIMM DDR4 2400MHz RAM, Support up to 8GB using 1x SO-DIMM Slot with | Storage: 256GB M.2 NVMe PCIe SSD, Graphics: Integrated Intel HD Graphics | Display: 15.6-inch (39.62 cms), LED-Backlit LCD, HD (1366 x 768) 16:9, 220nits, NanoEdge bezel, Anti-Glare Plane with 45% NTSC, 82% Screen-To-Body Ratio | Operating System: Pre-loaded Windows 11 Home with lifetime validity | Design & battery: Up to 19.9mm Thin | NanoEdge Bezels | Thin and Light Laptop | Laptop weight: 1.8 kg | 37WHrs, 2-cell Li-ion battery | Up to 6 hours battery life ;Note: Battery life depends on conditions of usage | Keyboard: Chiclet Keyboard with 1.4mm Key Travel",
+      "pAmount": "₹26,990.00"
+    },
+    {
+      "id": 2,
+      "category": "Laptop",
+      "pBrand": "Lenovo",
+      "pName": "Lenovo IdeaPad Slim 3 10th Gen Intel Core i3 15.6 HD Thin and Light Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/61Dw5Z8LzJL._SL1000_.jpg",
+      "pDetail": "Processor: 10th Gen Intel Core i3-10110U | Speed: 2.1 GHz (Base) - 4.1 GHz (Max) | 2 Cores | 4 Threads | 4MB Cache | OS: Pre-Loaded Windows 11 Home with Lifetime Validity | Pre-Installed: MS Office Home and Student 2021 | Memory and Storage: 8GB RAM DDR4-2666, Upgradable to 12GB | 1 TB HDD | Graphics: Intel UHD Integrated Graphics | Display: 15.6 HD (1366x768) | Brightness: 220 nits | Anti-Glare. Design: 1.99 cm Thin and 1.7 kg Light",
+      "pAmount": "₹37,990.00"
+    },
+    {
+      "id": 3,
+      "category": "Laptop",
+      "pBrand": "HP",
+      "pName": "HP Chromebook 14",
+      "pImg": "https://m.media-amazon.com/images/I/71N0+IGOsLL._SL1200_.jpg",
+      "pDetail": "GOOGLE ASSISTANT: Voice-Enabled Google Assistant built-in, work faster and smarter without lifting a finger or switching screens. Ask questions, set reminders, play videos, control your home, and more. Make Google do it. | BOOTS IN SECONDS: Powered by Chrome OS with automatic software updates so youâll always have the latest virus protection. It starts up in less than 10 seconds, stays fast throughout the day, and won't slow down over time | PROCESSOR: Intel Celeron N4020 (1.1 GHz base frequency, up to 2.8 GHz burst frequency, 4 MB L2 cache, 2 cores) | APPS: Access to favorite apps from Google Play like Google Drive, Gmail, YouTube, Evernote, Slack, Infinite Painter, Lightroom, Whatsapp, MS Office and many more. MEMORY & STORAGE: 4 GB DDR4-2400 SDRAM | HARD DRIVE: 64 GB eMMC | Expandable up to 256 GB | 100 GB Google Drive storage | Keyboard: chiclet | Color: Silver. Connectivity technology: wireless",
+      "pAmount": "₹25,390.00"
+    },
+    {
+      "id": 4,
+      "category": "Laptop",
+      "pBrand": "Samsung",
+      "pName": "Samsung Galaxy Book2 360",
+      "pImg": "https://m.media-amazon.com/images/I/711kYFE3rWL._SL1500_.jpg",
+      "pDetail": "Processor: 12th Generation Intel EVOTM Core i5-1235U Processor(1.3 GHz up to 4.4 GHz, 12 MB L3 Cache) | Memory: 16 GB LPDDR4x Memory (On BD 16 GB) | Storage: 512 GB NVMe SSD | Operating System: Windows 11 Home | Preinstalled Software: MS Office Home & Student 2021, Live Message, Live Wallpaper, McAfee Live Safe (Trial), Screen Recorder, Samsung Gallery, Quick Search, Samsung Flow, Samsung Notes, Samsung Recovery, Samsung Settings, Studio Plus, Samsung Update, Samsung Security, Quick Share, Galaxy Book Smart Switch | Display: 13.3 inch (33.7 cm), FHD AMOLED Display (1920 x 1080) | Touchscreen | Intel Iris Xe Graphics and More...",
+      "pAmount": "₹99,990.00"
+    },
+    {
+      "id": 5,
+      "category": "Laptop",
+      "pBrand": "Apple",
+      "pName": "2020 Apple MacBook Pro",
+      "pImg": "https://m.media-amazon.com/images/I/71an9eiBxpL._SL1500_.jpg",
+      "pDetail": "Apple-designed M1 chip for a giant leap in CPU, GPU, and machine learning performance. Get more done with up to 20 hours of battery life, the longest ever in a Mac, 8-core CPU delivers up to 2.8x faster performance to fly through workflows quicker than ever. 8-core GPU with up to 5x faster graphics for graphics-intensive apps and games, 16-core Neural Engine for advanced machine learning, 8GB of unified memory so everything you do is fast and fluid, Superfast SSD storage launches apps and opens files in an instant",
+      "pAmount": "₹1,29,900.00"
+    },
+    {
+      "id": 6,
+      "category": "Laptop",
+      "pBrand": "Microsoft",
+      "pName": "Microsoft Surface Pro X 1876 13 inches Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/51ZqIfidWfL._SL1200_.jpg",
+      "pDetail": "Free upgrade to Windows 11 when available. Disclaimer - Upgrade rollout plan is being finalized and is scheduled to begin late in 2021 and continue into 2022. Specific timing will vary by device. Processor: Powered by Qualcomm, the new custom Microsoft SQ1 processor delivers multitasking laptop performance, long battery life, and fast LTE and Wi-Fi. Operating System: Pre-loaded Windows 10 Home with lifetime validity | Display: 13 inch 2880 x 1920 PixelSense display | Touchscreen enabled | Memory & Storage : 8GB LPDDR4x RAM with Microsoft SQ1 Adreno 685 GPU Graphics| Storage: 128GB SSD. Design & Battery : Touchscreen 2-in-1 laptop | Thin and light design | Laptop weight: 0.77 kg | Average battery life = upto 13 hours. Ports & CD drive: 2 USB-C, 1 Surface Connect port, 1 nano SIM | Without CD drive",
+      "pAmount": "₹97,290.00"
+    },
+    {
+      "id": 7,
+      "category": "Laptop",
+      "pBrand": "Razer",
+      "pName": "Razer Blade 14 Gaming Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/611VQf95rxL._SL1500_.jpg",
+      "pDetail": "NVIDIA GeForce RTX 30 Series Graphics for Stunning Visuals: Built on NVIDIA's award-winning 2nd-gen RTX architecture, these GPUs provide the most realistic ray-traced graphics and cutting-edge AI features for the most powerful graphics in a gaming laptop. Whether gaming or creating, AMD Ryzen processors offer ultimate performance: AMD Ryzen 5000 Series processors power the next generation of demanding games, providing one of a kind immersive experiences and dominate any multithreaded task like 3D and video rendering3, and software compiling. Next-gen Displays to Meet Your Needs: 165Hz QHD display for the best of both worlds in fast gaming and ultra clear display, Vapor Chamber Cooling for Maximized Thermal Performance: The laptop quietly and efficiently dissipates heat through the evaporation and condensation of an internal fluid, keeping it running smoothly and coolly even under intense loads. Customizable RGB Individual Key Lighting: Illuminates in sync with Razer Chroma-supported peripherals and popular games with multiple lighting effects",
+      "pAmount": "₹3,46,499.00"
+    },
+    {
+      "id": 8,
+      "category": "Laptop",
+      "pBrand": "Microsoft",
+      "pName": "Microsoft Surface Studio 14.4 inches Touchscreen Intel ® Core i7 Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/61UGE9cZVlL._SL1500_.jpg",
+      "pDetail": "The most powerful Surface Laptop. Quad-core powered 11th Gen Intel Core H Series processors handle your most complex workloads. Design, animate, and render at top speed. Step up to the award-winning Ampere — NVIDIA's 2nd gen RTX architecture, enabling ray-traced graphics and cutting-edge AI features from NVIDIA GeForce RTX 3050 Ti. Boundary-pushing design with sleek 14.4“ (5) touchscreen makes seamless transitions from laptop to entertainment-ready stage to portable creative canvas. Pair with Surface Slim Pen 2* for the best digital pen experience yet, featuring the feeling of pen on paper(7). Magnetically attach, store, and charge under the front of the keyboard. Enjoy uniform, true-to-life color and contrast on the beautiful 14.4”(5) PixelSense Flow touch display. Experience smoother scrolling with a refresh rate up to 120Hz.",
+      "pAmount": "₹3,73,999.00"
+    },
+    {
+      "id": 9,
+      "category": "Laptop",
+      "pBrand": "Lenovo",
+      "pName": "Lenovo Yoga 7 Intel Evo Core i7 11th Gen 14' FHD IPS 2-in-1 Touchscreen Convertible Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/614Sb6FBW4L._SL1500_.jpg",
+      "pDetail": "Processor & Graphics : 11th Gen Intel Core i7-1165G7 | Speed: 2.8 GHz (Base) - 4.7 GHz (Max) | 4 Cores | 12MB Cache |Intel Evo Laptop | Intel Iris Xe Integrated Graphics | OS and Software : Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 | Xbox GamePass Ultimate 3-month subscription* | Memory and Storage: 16GB RAM DDR4-3200 | 512 GB SSD | Display: 14' Full HD (1920x1080) | Brightness: 300 nits | IPS Technology | 72% NTSC | AGC Dragontrail Glass | Touch. Design: 10 point Touchscreen AGC Dragontrail Glass | 1.77 cm Thin and 1.43 kg Light | Aluminium Material | Backlit Keyboard | Fingerprint Reader. Battery Life: Upto 14 Hours | 71Wh Battery | Rapid Charge Express (Upto 3 hours runtime in 15 mins). Camera (Built in): HD 720p (1.0MP) Camera | Fixed Focus | Privacy Shutter",
+      "pAmount": "₹98,592.00"
+    },
+    {
+      "id": 10,
+      "category": "Laptop",
+      "pBrand": "MSI",
+      "pName": "MSI MSI GT83 8RG-007IN 2018 18.4 Inches Gaming Laptop",
+      "pImg": "https://m.media-amazon.com/images/I/81MzezSQgdL._SL1500_.jpg",
+      "pDetail": "2.60GHz Intel Core i7-8850H 8th Gen processor | 32GB DDR4 RAM. 1TB Serial ATA hard drive | 18.4-inch screen, NVidia GeForce GTX 1080 SLI 8GB Graphics | Windows 10 operating system | 5.5kg laptop | Country of Origin: China",
+      "pAmount": "₹4,19,990.00"
+    }
+  ],
+
+  "speakers": [
+    {
+      "id": 1,
+      "category": "Speaker",
+      "pBrand": "JBL",
+      "pName": "JBL Charge 4, Wireless Portable Bluetooth Speaker",
+      "pImg": "https://m.media-amazon.com/images/I/813GAqvZQlL._SL1500_.jpg",
+      "pDetail": "JBL Signature Sound- Experience JBL legendary sound with high-powered portable Bluetooth speaker. 20 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof. JBL Connect+ Technology enabling pairing of 100 JBL Speakers. Dual Passive Bass Radiators. Build-in Power bank- High-capacity 7500mAh battery can charge your smartphones and tablets via its USB output.",
+      "pAmount": "₹10,999.00"
+    },
+    {
+      "id": 2,
+      "category": "Speaker",
+      "pBrand": "Sony",
+      "pName": "Sony SRS-XB23 Wireless Extra Bass Bluetooth Speaker",
+      "pImg": "https://m.media-amazon.com/images/I/81675XSuUoL._SL1500_.jpg",
+      "pDetail": "Extra Bass: Enjoy deep, punchy sound wherever you like with Sony EXTRA BASS speaker. Dustproof, waterproof and washable: With an IP67 ratings, you can take your speaker to the beach, the SRS-XB23 will keep on playing. Long battery life: Up to 12 hours of battery life means the SRS-XB23 can party even longer than you can. Even in EXTRA BASS mode, you can party for up to 10 hours. Built-In Mic: The mic function offers a convenient way to talk hands-free, whether it's a conference call for work or a chat with friends. Power Consumption (Standby Mode) - Approx. 0.3 W",
+      "pAmount": "₹8,990.00"
+    },
+    {
+      "id": 3,
+      "category": "Speaker",
+      "pBrand": "Onix",
+      "pName": "ONIX enthusing generations OHT-500T 50W 2.0 Channel Wireless, USB, Bluetooth Multimedia Speaker - Black",
+      "pImg": "https://m.media-amazon.com/images/I/71ZpN-D8LVL._SL1500_.jpg",
+      "pDetail": "Onix Speaker Systems deliver compellingly realistic and powerful auditory experience,Onix introducing powerful scalable and versatile speaker system categories like Stage Speakers, Trolley Speakers, Tower Speakers, 5.1,4.1,2.1 Channel Speakers and Bluetooth Speakers. They are designed from the ground up to perform in the real world of sound. No matter whether you are performing or listening, we are here to design and deliver high quality speaker system series. So you can get indelible audio expe. Experience Sound quality like never before with Onix 2.0 OHT 500T Multimedia Tower Speakers. Enjoy loud, crystal clear music pulsating around the room through these powerful satellite speakers. Its Overall Output power is 50 W RMS Glossy and Stylish Finish These speakers feature an attractive design with a glossy finish that blends in beautifully with the modern interiors of your living room. Speakers are compatible with multiple digital devices",
+      "pAmount": "₹9,939.00"
+    },
+    {
+      "id": 4,
+      "category": "Speaker",
+      "pBrand": "F&D",
+      "pName": "F&D T60X 110 Watt 2.0 Channel Wired Tower Speaker",
+      "pImg": "https://m.media-amazon.com/images/I/71TsNr7cMgL._SL1500_.jpg",
+      "pDetail": "3 ways acoustic design 1 inches silk dome tweeter. 4 inches woofer and 8 inches subwoofer for each channel. Elegant and nice wooden cabinet design, Plug & play USB card reader. Bluetooth and NFC allow you to stream your music fromsmart device. Manufacturer Detail: Shenzhen Fenda Technology Co. Ltd. Fenda Hi-Tech Park, Zhoushi Road, Shiyan, Baoan, Shenzhen, Chinamporter. Details: Fenda Audio India Pvt. Ltd. 8/41, 2nd Floor, Kirti Nagar, Indstrial Area, New Delhi-110015",
+      "pAmount": "₹14,950.00"
+    },
+    {
+      "id": 5,
+      "category": "Speaker",
+      "pBrand": "Sony",
+      "pName": "Sony HT-A7000 9.1.2ch 8k/4k Dolby Atmos Soundbar",
+      "pImg": "https://m.media-amazon.com/images/I/71vlykuvotL._SL1500_.jpg",
+      "pDetail": "360 Spatial Sound Mapping : 360 Spatial Sound Mapping technology creates up to twelve phantom speakers from just four real speakers to give you most immersive and real surround sound | Dolby Atmos : Feel the thrill of movies in stunning 7.1.2ch Dolby Atmos/DTS: X. Sound Filed Optimization: Sound Field Optimization calibrates to your environment to provide the best sound. Uprfiring Speaker : Reflect the sound off the ceiling for immersive overhead audio combine with vertical surround engine to give you an even more atmospheric overhead sound experience. Bravia Acoustic Center Sync : You'll hear dialogue from exactly where the character is standing in the scene. Action and sound are precisely aligned so your viewing becomes much more immersive.",
+      "pAmount": "₹1,66,980.00"
+    },
+    {
+      "id": 6,
+      "category": "Speaker",
+      "pBrand": "boAt",
+      "pName": "boAt Stone 1000 14W Bluetooth Speaker",
+      "pImg": "https://m.media-amazon.com/images/I/718DqdKu9tL._SL1500_.jpg",
+      "pDetail": "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth v5.0. Stone 1000 comes equipped with powerful 3000mAh battery capacity that supports a play time of up to 8 hours. It is IPX5 rated to ensure resistance against dust and water scares. Playback Time - 10 hours, Charging Time - 4 hours, Standby Time - 12 month. Stone 1000 comes with integrated controls for you to easily change volume, tracks, play/pause music. 1 year warranty from the date of purchase",
+      "pAmount": "₹2,209.00"
+    },
+    {
+      "id": 7,
+      "category": "Speaker",
+      "pBrand": "boAt",
+      "pName": "boAt Stone 650 10W Bluetooth Speaker with Upto 7 Hours Playback, IPX5 and Integrated Controls (Black)",
+      "pImg": "https://m.media-amazon.com/images/I/71YXa2+AyNL._SL1500_.jpg",
+      "pDetail": "Experience the true immersive sound with a pumping driver delivering 10W of audio and connect to the music that you love. Impedance 4Ω, Sensitivity (dB) 89dB±3DB, Frequency Response 2.4GHz-2.480GKHz. Its powerful 1800mAh battery offers a playback time of up to 7 hours. Stone 650 is IPX5 rated offering protection against water and dust. Its integrated controls allow for an easy user interface, ensuring that nothing stands between you and your favourite music, Charging Time - 3.5 hours. It offers dual connectivity via its Bluetooth v4.2 and AUX. 1 year warranty from the date of purchase",
+      "pAmount": "₹1,999.00"
+    },
+    {
+      "id": 8,
+      "category": "Speaker",
+      "pBrand": "Zebronics",
+      "pName": "Zebronics ZEB-COUNTY 3 W Wireless Bluetooth Portable Speaker",
+      "pImg": "https://m.media-amazon.com/images/I/81U3kN9bf1L._SL1500_.jpg",
+      "pDetail": "Zeb-county is a compact and handy portable speaker that comes with multi-connectivity options like wireless BT/USB/micro SD and AUX. Wall Mountable Satellite : No. The speaker comes with a call function along with a built-in fm radio too. Speaker impedance 3Ω. Frequency response 120hz-15khz. Charging time 4-5 hrs. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase. To connect to FM: Switch the speaker to FM mode and connect the micro USB cable to the micro USB port of the speaker and leave the other end free (this cable will act as the FM antenna).",
+      "pAmount": "₹497.00"
+    }
+  ],
+
+  "accessories": [
+    {
+      "id": 1,
+      "category": "Accessories",
+      "pBrand": "Solimo",
+      "pName": "Solimo Protective Mobile Cover (Soft & Flexible Back Case) for Samsung Galazy M12-Black",
+      "pImg": "https://m.media-amazon.com/images/I/615W-HoYngL._SL1000_.jpg",
+      "pDetail": "Compatible with Samsung Galazy M12. Snug fit with perfect cut-outs for volume buttons, audio and charging ports. Durable, soft and flexible back case, Slip Resistant. Raised upper lip build design to help protect the screen against fall on a flat surface. Protects phone from scratches, fingerprints and sweat",
+      "pAmount": "₹139.00"
+    },
+    {
+      "id": 2,
+      "category": "Accessories",
+      "pBrand": "SKADIOO",
+      "pName": "SKADIOO Waterproof Mobile Cover Pouch | Cell Phone case | Mobile Cases | Waterproof Phone Pouch for iPhone",
+      "pImg": "https://m.media-amazon.com/images/I/61alBOIGK+L._SL1500_.jpg",
+      "pDetail": "【Under Water Waterproof Pouch】 - Using high-grade lightweight PVC material cased with easy-to-use dual swivel lock and sealable closure clip, this ROSETTE phone case will keep your device out of water, snow, dust, sand, and dirt for a full range protection.【Free Operation and Transparent Cover】- You could easily access to phone camera to record any breathtaking moment of your adventure, check essential emails or answer calls as clearly as usual, never miss any important message.You can perfectly operate your cellphone but NOT for touch ID fingerprint.",
+      "pAmount": "₹105.00"
+    },
+    {
+      "id": 3,
+      "category": "Accessories",
+      "pBrand": "Pirum",
+      "pName": "Pirum Mobile Phone Case Compatible with Samsung Galaxy M42 5G",
+      "pImg": "https://m.media-amazon.com/images/I/81l+MmvdE+S._SL1350_.jpg",
+      "pDetail": "The Pirum premium leather stand case is handcrafted from leather, with contrasting stitching and striking a fine grain soft leather, providing the perfect balance of being tactile yet robust. DURABLE FRAME – Microfiber lined, silicone-based internal frame. Toughened sturdy rear plate with durable, flexible silicone sides to aid with shock absorption. CARD SLOTS – Benefits from 2 card slots and a separate compartment for notes/receipts. This case is not intended as a wallet, adding cash and cards will diminish the magnetic closure power and negate the slim profile. Magnetic Snap Closure. Highly-Efficient Good Strong Reversible Magnetic Snap Opens And Closes Securely Provides A Secure Reliable Lock To Keep Your Case Firmly Closed Offers Full Protection When Your Phone Falls Down Accidentally. AUTHENTIC SLIM DESIGN - The hidden magnetic closure removes the need for a tab, which ensures an overall slim profile",
+      "pAmount": "₹1,299.00"
+    },
+    {
+      "id": 4,
+      "category": "Accessories",
+      "pBrand": "Elv",
+      "pName": "ELV Car Mount Adjustable Car Phone Holder Universal Long Arm, Windshield for Smartphones - Black",
+      "pImg": "https://m.media-amazon.com/images/I/61sCL37xvlL._SL1080_.jpg",
+      "pDetail": "PRODUCT FEATURES : ELV Easy one touch mounting system locks and releases the device with just a push of a finger, Two step locking lever provides additional mounting support for multiple surfaces. EASY ACCESS : Redesigned bottom foot ensures access to all your device ports. SUPER POWER GRIP IN BOTTOM : Super sticky gel pad sticks securely to most surfaces (including textured surfaces),Yet is still removable. 360 DEGREE ROTATION : Fully adjuestable with 360 degree rotation for quick portrait and landscape views, TELESCOPIC ARM New telescopic arm adds 2 inches to allow for closer device viewing.",
+      "pAmount": "₹349.00"
+    }
+  ],
+
+  "cart": []
+}

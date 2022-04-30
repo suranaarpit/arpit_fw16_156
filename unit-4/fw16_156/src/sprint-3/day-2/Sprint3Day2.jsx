@@ -1,8 +1,8 @@
 import React from "react";
 // import AuthContextProvider from "./AuthContext/AuthContext";
 // import { NavBar } from "./AuthContext/NavBar";
-import { NavBar2 } from "./ThemeContext/NavBar2";
-import { ThemeContextProvider } from "./ThemeContext/ThemeContext";
+// import { NavBar2 } from "./ThemeContext/NavBar2";
+// import { ThemeContextProvider } from "./ThemeContext/ThemeContext";
 
 export const Sprint3D2 = () => {
   return (
@@ -11,9 +11,9 @@ export const Sprint3D2 = () => {
         <NavBar />
       </AuthContextProvider> */}
 
-      <ThemeContextProvider>
+      {/* <ThemeContextProvider>
         <NavBar2 />
-      </ThemeContextProvider>
+      </ThemeContextProvider> */}
     </>
   );
 };

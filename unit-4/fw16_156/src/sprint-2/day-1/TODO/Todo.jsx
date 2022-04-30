@@ -5,7 +5,7 @@ export const Todo = ({ todo, onDelete, onEdit }) => {
 
   const [isEditable, setIsEditable] = React.useState(false);
 
-  const [value, setValue] =React. useState(todo.value);
+  const [value, setValue] = React.useState(todo.value);
 
   const handleDelete = async () => {
     await fetch(`http://localhost:8080/todos/${todo.id}`, {
