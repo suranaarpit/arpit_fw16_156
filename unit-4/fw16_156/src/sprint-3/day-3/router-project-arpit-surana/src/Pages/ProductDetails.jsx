@@ -4,6 +4,8 @@ import AnnounceBar from "../Components/AnnounceBar";
 import NavBar from "../Components/NavBar";
 import Footer from "../Components/Footer";
 import { Link, useParams } from "react-router-dom";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 function MainProductDetails() {
   const [data, setData] = useState([]);
@@ -23,7 +25,35 @@ function MainProductDetails() {
       }
     };
     getData();
-  },[]);
+  }, []);
+
+  const notify = () =>
+    toast.success("Item Added to Bag", {
+      position: "top-right",
+      autoClose: 5000,
+      hideProgressBar: false,
+      newestOnTop: false,
+      rtl: false,
+    });
+  const error = () => toast.error("Item already present in cart");
+
+  const addToCart = async () => {
+    try {
+      let res = await fetch(`http://localhost:8080/cart`, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ ...data }),
+      });
+      if (res.status === 201) {
+        notify();
+      } else {
+        error();
+      }
+      // alert("Product added")
+    } catch (err) {
+      console.log("err:", err);
+    }
+  };
 
   return (
     <div>
@@ -43,7 +73,7 @@ function MainProductDetails() {
                 {data.pBrand}
               </h2>
               <h1 className="text-gray-900 text-3xl title-font font-medium mb-1">
-               {data.pName}
+                {data.pName}
               </h1>
               <div className="flex mb-4">
                 <span className="flex items-center">
@@ -102,7 +132,7 @@ function MainProductDetails() {
                   >
                     <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
                   </svg>
-                  <span className="text-gray-600 ml-3">4 Reviews</span>
+                  <span className="text-gray-600 ml-3">{data.review} Reviews</span>
                 </span>
                 <span className="flex ml-3 pl-3 py-2 border-l-2 border-gray-200 space-x-2s">
                   <Link to={"#"} className="text-gray-500">
@@ -143,15 +173,16 @@ function MainProductDetails() {
                   </Link>
                 </span>
               </div>
-              <p className="leading-relaxed">
-               {data.pDetail}
-              </p>
+              <p className="leading-relaxed">{data.pDetail}</p>
               <div className="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5"></div>
               <div className="flex">
                 <span className="title-font font-medium text-2xl text-gray-900">
-                 {data.pAmount}
+                  {data.pAmount}
                 </span>
-                <button className="flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded">
+                <button
+                  onClick={() => addToCart()}
+                  className="flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded"
+                >
                   Add to Cart
                 </button>
               </div>
@@ -161,6 +192,7 @@ function MainProductDetails() {
       </section>
       <hr />
       <Footer />
+      <ToastContainer />
     </div>
   );
 }

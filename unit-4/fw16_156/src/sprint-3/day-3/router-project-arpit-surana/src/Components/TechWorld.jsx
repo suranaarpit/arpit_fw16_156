@@ -16,6 +16,7 @@ import SmartphoneRouter from "../Router/SmartphoneRouter";
 import LaptopsRouter from "../Router/LaptopsRouter";
 import SpeakersRouter from "../Router/SpeakersRouter";
 import AccessoriesRouter from "../Router/AccessoriesRouter";
+import PageNotFound from "./PageNotFound";
 
 function TechWorld() {
   return (
@@ -37,6 +38,7 @@ function TechWorld() {
         <Route path="/Laptops_Detail/:id" element={<LaptopsRouter />} />
         <Route path="/Speakers_Detail/:id" element={<SpeakersRouter />} />
         <Route path="/Accessories_Detail/:id" element={<AccessoriesRouter />} />
+        <Route path="*" element={<PageNotFound />} />
       </Routes>
     </>
   );
