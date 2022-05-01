@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>REACT CUSTOM CALCULATOR USING REDUX</title>
+  </head>
+  <body class="bg-black">
+    <div class="flex items-center flex-col py-24 border border-black w-[900px] m-auto mt-[100px] bg-amber-50">
+    <h1 class="text-2xl font-bold underline mb-7">REACT CUSTOM CALCULATOR USING REDUX</h1>
+      <h1 id="counter" class="text-2xl font-bold text-orange-400 underline"></h1>
+      <div class="py-6">
+        <button class="border border-black w-5 border-t-white border-l-white border-r-white font-bold text-xl" id="increment">+</button>
+        <button class="border border-black w-5 border-t-white border-l-white border-r-white font-bold text-xl" id="decrement">-</button>
+      </div>
+      <label
+      class="font-bold"
+        >Enter the number ➡ 
+        <input class="border border-b-black outline-none border-t-white border-l-white border-r-white" type="text" id="input" placeholder="Enter the value" />
+      </label>
+      <br />
+      <div class="py-5">
+        <button class="border border-black border-t-white border-l-white border-r-white" id="add">Add</button>
+        <button class="border border-black border-t-white border-l-white border-r-white" id="sub">Subtract</button>
+        <button class="border border-black border-t-white border-l-white border-r-white" id="mul">Multiply</button>
+        <button class="border border-black border-t-white border-l-white border-r-white" id="div">Divide</button>
+        <button class="border border-black border-t-white border-l-white border-r-white" id="clr">Reset</button>
+      </div>
+    </div>
+  </body>
+  <script type="module" src="./index.js"></script>
+</html>

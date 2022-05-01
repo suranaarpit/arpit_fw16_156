@@ -10,7 +10,7 @@ import React from "react";
 // import Sprint3Day1 from "./sprint-3/day-1/Sprint3Day1";
 // import Main from "./sprint-3/day-1/ReactCreditCard/Main";
 // import { Sprint3D2 } from "./sprint-3/day-2/Sprint3Day2";
-import { Todos } from "./sprint-2/day-1/TODO/Todos";
+// import { Todos } from "./sprint-2/day-1/TODO/Todos";
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
       {/* <Sprint3Day1></Sprint3Day1> */}
       {/* <Main /> */}
       {/* <Sprint3D2></Sprint3D2> */}
-      <Todos></Todos>
+      {/* <Todos></Todos> */}
     </>
   );
 }
