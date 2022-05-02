@@ -509,56 +509,5 @@
       "review": "64"
     }
   ],
-  "cart": [
-    {
-      "id": 9,
-      "category": "Smartphone",
-      "pBrand": "Samsung",
-      "pName": "Samsung Galaxy M53 5G (Mystique Green, 6GB, 128GB Storage)",
-      "pImg": "https://m.media-amazon.com/images/I/71MaDLgHnxL._SL1500_.jpg",
-      "pDetail": "Segment Best 108MP Quad Camera Setup, with exciting features like Single Take, Object Eraser, and Photo Remaster. 6.7-inch Super AMOLED Plus Display, FHD+ resolution, 1080x2400 pixels with 120Hz Refresh Rate. MTK D900 Octa Core 2.4GHz 6nm Processor with 4x4 Mimo Band support for a HyperFast 5G experience. Massive 5000 mAh Battery | Memory, Storage & SIM: 6GB RAM | RAM Plus upto 6GB |128GB internal memory expandable up to 1TB. Latest Android v12.0, One UI 4 opereview system",
-      "pAmount": "₹26,499.00",
-      "review": "1020"
-    },
-    {
-      "id": 11,
-      "category": "Smartphone",
-      "pBrand": "Samsung",
-      "pName": "Samsung Galaxy Z Fold3 5G",
-      "pImg": "https://m.media-amazon.com/images/I/71MmJNwZcML._SL1500_.jpg",
-      "pDetail": "Main Display - 19.19cm (7'6) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Cover Display - 15.82cm (6.2”) Infinity-O Display, Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro (Sold separately). 5G Ready powered by Qualcomm Snapdragon 888 Octa-Core processor. IPX8 Rated for Water Resistance,  Corning Gorilla Glass Victus, Armor Aluminium frame. Fingerprint Sensor (side) & Facial recognition. Dual Sim (1Nano Sim + 1 Nano Sim/eSIM)",
-      "pAmount": "₹1,57,999.00",
-      "review": "25"
-    },
-    {
-      "id": 2,
-      "category": "Smartphone",
-      "pBrand": "Apple",
-      "pName": "Apple iPhone 12 (64GB) - Blue",
-      "pImg": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SL1500_.jpg",
-      "pDetail": "6.1-inch (15.5 cm diagonal) Super Retina XDR display. Ceramic Shield, tougher than any smartphone glass. A14 Bionic chip, the fastest chip ever in a smartphone. Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording. Supports MagSafe accessories for easy attach and faster wireless charging. iOS with redesigned widgets on the Home screen, all-new App Library, App Clips and more",
-      "pAmount": "₹54,900.00",
-      "review": "500"
-    },
-    {
-      "id": 19,
-      "category": "Smartphone",
-      "pBrand": "Samsung",
-      "pName": "Samsung Galaxy Z Flip3 5G with Snapdragon 888",
-      "pImg": "https://m.media-amazon.com/images/I/41-4b1s4GOL._SL1422_.jpg",
-      "pDetail": "A full-sized smartphone that folds to fit small-sized pockets. This visually awesome and 4.2'' folded compact design delivers the ultimate portability for every move you make.",
-      "pAmount": "₹63,320.00",
-      "review": "25"
-    },
-    {
-      "id": 41,
-      "category": "Speaker",
-      "pBrand": "Onix",
-      "pName": "ONIX enthusing generations OHT-500T 50W 2.0 Channel Wireless, USB, Bluetooth Multimedia Speaker - Black",
-      "pImg": "https://m.media-amazon.com/images/I/71ZpN-D8LVL._SL1500_.jpg",
-      "pDetail": "Onix Speaker Systems deliver compellingly realistic and powerful auditory experience,Onix introducing powerful scalable and versatile speaker system categories like Stage Speakers, Trolley Speakers, Tower Speakers, 5.1,4.1,2.1 Channel Speakers and Bluetooth Speakers. They are designed from the ground up to perform in the real world of sound. No matter whether you are performing or listening, we are here to design and deliver high quality speaker system series. So you can get indelible audio expe. Experience Sound quality like never before with Onix 2.0 OHT 500T Multimedia Tower Speakers. Enjoy loud, crystal clear music pulsating around the room through these powerful satellite speakers. Its Overall Output power is 50 W RMS Glossy and Stylish Finish These speakers feature an attractive design with a glossy finish that blends in beautifully with the modern interiors of your living room. Speakers are compatible with multiple digital devices",
-      "pAmount": "₹9,939.00",
-      "review": "50"
-    }
-  ]
+  "cart": []
 }
