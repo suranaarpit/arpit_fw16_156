@@ -28,7 +28,82 @@ console.table(user);
 
 // using own custom sort method: [Bubble Sort]
 
-function bubbleSort(arr, para) {
+// function bubbleSort(arr, para) {
+//   var swapped;
+//   do {
+//     swapped = false;
+
+//     for (var i = 0; i < arr.length - 1; i++) {
+//       if (arr[i][para] > arr[i + 1][para]) {
+//         var temp = arr[i];
+
+//         arr[i] = arr[i + 1];
+//         arr[i + 1] = temp;
+
+//         swapped = true;
+//       }
+//     }
+//   } while (swapped);
+//   console.table(arr);
+// }
+
+// bubbleSort(user, "age");
+
+//--------------------------------------------------------------------------
+
+// Advanced (optional)
+
+interface TeacherInfo {
+  subject: string;
+  numberOfStudents: number;
+}
+const Teacher: TeacherInfo[] | UserInfo[] = [
+  {
+    id: 1,
+    name: "Ajay",
+    age: 26,
+    subject: "English",
+    numberOfStudents: 40,
+    salary: 20000,
+  },
+  {
+    id: 2,
+    name: "Lokesh",
+    age: 30,
+    subject: "Hindi",
+    numberOfStudents: 20,
+    salary: 10000,
+  },
+  {
+    id: 3,
+    name: "Kavita",
+    age: 22,
+    subject: "Biology",
+    numberOfStudents: 60,
+    salary: 50000,
+  },
+  {
+    id: 4,
+    name: "Saloni",
+    age: 45,
+    subject: "Physics",
+    numberOfStudents: 40,
+    salary: 30000,
+  },
+  {
+    id: 4,
+    name: "Sanjay",
+    age: 55,
+    subject: "Computer Science",
+    numberOfStudents: 50,
+    salary: 35000,
+  },
+];
+console.table(Teacher);
+
+// using own custom sort method: [Bubble Sort]
+
+function bubbleSort2(arr, para) {
   var swapped;
   do {
     swapped = false;
@@ -47,4 +122,6 @@ function bubbleSort(arr, para) {
   console.table(arr);
 }
 
-bubbleSort(user, "age");
+bubbleSort2(Teacher, "age");
+// or change
+// bubbleSort2(user, "age");
