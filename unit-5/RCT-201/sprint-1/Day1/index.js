@@ -30,6 +30,6 @@ function bubbleSort(arr, para) {
             }
         }
     } while (swapped);
-    console.log(arr);
+    console.table(arr);
 }
 bubbleSort(user, "age");
