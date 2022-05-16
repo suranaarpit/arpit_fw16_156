@@ -28,3 +28,23 @@ console.table(user);
 
 // using own custom sort method: [Bubble Sort]
 
+function bubbleSort(arr, para) {
+  var swapped;
+  do {
+    swapped = false;
+
+    for (var i = 0; i < arr.length - 1; i++) {
+      if (arr[i][para] > arr[i + 1][para]) {
+        var temp = arr[i];
+
+        arr[i] = arr[i + 1];
+        arr[i + 1] = temp;
+
+        swapped = true;
+      }
+    }
+  } while (swapped);
+  console.log(arr);
+}
+
+bubbleSort(user, "age");
