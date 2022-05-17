@@ -168,7 +168,34 @@ const Admin = () => {
       <br />
       <hr />
       <br />
-      <div className="border border-black w-[955px] h-[fit-content] m-auto mb-[50px]">
+      <div className="w-[200px] h-[40px] m-auto">
+        <select
+          className="border border-black h-full w-full cursor-pointer outline-none p-2 rounded-[8px]"
+          onChange={(e) => {
+            const anewData = lap.sort((a, b) => {
+              if (e.target.value === "htl") {
+                return b.price - a.price;
+              } else if (e.target.value === "lth") {
+                return a.price - b.price;
+              } else if (e.target.value === "lmy") {
+                return b.year - a.year;
+              } else if (e.target.value === "omy") {
+                return a.year - b.year;
+              } else {
+                return a.id - b.id;
+              }
+            });
+            setLap([...anewData]);
+          }}
+        >
+          <option value="sortby">-------SORT BY------</option>
+          <option value="htl">Price High to Low</option>
+          <option value="lth">Price Low to High</option>
+          <option value="lmy">Latest Products</option>
+          <option value="omy">Older Products</option>
+        </select>
+      </div>
+      <div className="border border-black w-[955px] h-[fit-content] m-auto mb-[50px] mt-4">
         <table>
           <tbody>
             <tr>
