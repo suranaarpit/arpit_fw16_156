@@ -1,9 +1,10 @@
-import Main from "./we/Components/Main";
-
+// import Main from "./we/Components/Main";
+import MainFile from "./Assignments/sprint1day2";
 function App() {
   return (
     <>
-      <Main />
+      {/* <Main /> */}
+      <MainFile />
     </>
   );
 }

@@ -1,0 +1,31 @@
+{
+  "lapData": [
+    {
+      "model": "Lenovo Ideapad s125",
+      "year": "2020",
+      "os": "Windows",
+      "sh": "1208",
+      "sw": "1208",
+      "price": "35000",
+      "id": 1
+    },
+    {
+      "model": "Apple MacBook Pro",
+      "year": "2021",
+      "os": "mac",
+      "sh": "900",
+      "sw": "900",
+      "price": "100000",
+      "id": 2
+    },
+    {
+      "model": "Dell Laptop",
+      "year": "2018",
+      "os": "Linux",
+      "sh": "750",
+      "sw": "800",
+      "price": "20000",
+      "id": 3
+    }
+  ]
+}
