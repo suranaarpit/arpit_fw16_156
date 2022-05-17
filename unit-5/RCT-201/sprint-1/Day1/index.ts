@@ -53,7 +53,7 @@ console.table(user);
 
 // Advanced (optional)
 
-interface TeacherInfo {
+type TeacherInfo = {
   subject: string;
   numberOfStudents: number;
 }
@@ -103,7 +103,7 @@ console.table(Teacher);
 
 // using own custom sort method: [Bubble Sort]
 
-function bubbleSort2(arr, para) {
+function sort(arr, para) {
   var swapped;
   do {
     swapped = false;
@@ -122,6 +122,6 @@ function bubbleSort2(arr, para) {
   console.table(arr);
 }
 
-bubbleSort2(Teacher, "age");
+sort(Teacher, "age");
 // or change
-// bubbleSort2(user, "age");
+// sort(user, "age");

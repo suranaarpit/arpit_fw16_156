@@ -1,73 +1,73 @@
 var user = [
-  { id: 1, name: "Arpit", age: 20, salary: 500000 },
-  { id: 2, name: "Ankur", age: 25, salary: 1000000 },
-  { id: 3, name: "Shubham", age: 19, salary: 10000 },
-  { id: 4, name: "Ranveer", age: 30, salary: 2000000 },
-  { id: 5, name: "Manan", age: 40, salary: 5000000 },
-  { id: 6, name: "Akshay", age: 29, salary: 200000 },
-  { id: 7, name: "Ajay", age: 30, salary: 100000 },
-  { id: 8, name: "Deepak", age: 27, salary: 600000 },
+    { id: 1, name: "Arpit", age: 20, salary: 500000 },
+    { id: 2, name: "Ankur", age: 25, salary: 1000000 },
+    { id: 3, name: "Shubham", age: 19, salary: 10000 },
+    { id: 4, name: "Ranveer", age: 30, salary: 2000000 },
+    { id: 5, name: "Manan", age: 40, salary: 5000000 },
+    { id: 6, name: "Akshay", age: 29, salary: 200000 },
+    { id: 7, name: "Ajay", age: 30, salary: 100000 },
+    { id: 8, name: "Deepak", age: 27, salary: 600000 },
 ];
 console.table(user);
 var Teacher = [
-  {
-    id: 1,
-    name: "Ajay",
-    age: 26,
-    subject: "English",
-    numberOfStudents: 40,
-    salary: 20000,
-  },
-  {
-    id: 2,
-    name: "Lokesh",
-    age: 30,
-    subject: "Hindi",
-    numberOfStudents: 20,
-    salary: 10000,
-  },
-  {
-    id: 3,
-    name: "Kavita",
-    age: 22,
-    subject: "Biology",
-    numberOfStudents: 60,
-    salary: 50000,
-  },
-  {
-    id: 4,
-    name: "Saloni",
-    age: 45,
-    subject: "Physics",
-    numberOfStudents: 40,
-    salary: 30000,
-  },
-  {
-    id: 4,
-    name: "Sanjay",
-    age: 55,
-    subject: "Computer Science",
-    numberOfStudents: 50,
-    salary: 35000,
-  },
+    {
+        id: 1,
+        name: "Ajay",
+        age: 26,
+        subject: "English",
+        numberOfStudents: 40,
+        salary: 20000
+    },
+    {
+        id: 2,
+        name: "Lokesh",
+        age: 30,
+        subject: "Hindi",
+        numberOfStudents: 20,
+        salary: 10000
+    },
+    {
+        id: 3,
+        name: "Kavita",
+        age: 22,
+        subject: "Biology",
+        numberOfStudents: 60,
+        salary: 50000
+    },
+    {
+        id: 4,
+        name: "Saloni",
+        age: 45,
+        subject: "Physics",
+        numberOfStudents: 40,
+        salary: 30000
+    },
+    {
+        id: 4,
+        name: "Sanjay",
+        age: 55,
+        subject: "Computer Science",
+        numberOfStudents: 50,
+        salary: 35000
+    },
 ];
 console.table(Teacher);
 // using own custom sort method: [Bubble Sort]
-function bubbleSort2(arr, para) {
-  var swapped;
-  do {
-    swapped = false;
-    for (var i = 0; i < arr.length - 1; i++) {
-      if (arr[i][para] > arr[i + 1][para]) {
-        var temp = arr[i];
-        arr[i] = arr[i + 1];
-        arr[i + 1] = temp;
-        swapped = true;
-      }
-    }
-  } while (swapped);
-  console.table(arr);
+function sort(arr, para) {
+    var swapped;
+    do {
+        swapped = false;
+        for (var i = 0; i < arr.length - 1; i++) {
+            if (arr[i][para] > arr[i + 1][para]) {
+                var temp = arr[i];
+                arr[i] = arr[i + 1];
+                arr[i + 1] = temp;
+                swapped = true;
+            }
+        }
+    } while (swapped);
+    console.table(arr);
 }
-bubbleSort2(Teacher, "age");
+sort(Teacher, "age");
 // or change
-// bubbleSort2(user, "age");
+// sort(user, "age");
