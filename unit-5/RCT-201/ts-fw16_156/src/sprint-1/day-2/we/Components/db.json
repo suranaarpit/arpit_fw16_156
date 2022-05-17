@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "e14a8c28-12b5-4c78-bb48-39c7ba8d819f",
+      "title": "React ",
+      "status": false
+    },
+    {
+      "id": "90c95cbf-f0e9-47c2-96b3-e16335e7c63b",
+      "title": "TypeScript",
+      "status": false
+    }
+  ]
+}
