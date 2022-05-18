@@ -1,0 +1,7 @@
+state manage:
+    1. Init.   createStoe(red, init)// reducer(store = init) | value={}
+    2. Get.    useSelector | useContext(Type)
+    3. Update  useDispatch | xxxx -> useState or useReducer
+
+Redux is state management
+Context api is NOT state management
