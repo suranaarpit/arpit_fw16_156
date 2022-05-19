@@ -12,7 +12,7 @@ export const Todo = () => {
 
   const handleToggle = (id: number) => {
     setList(list.filter((e) => e.id !== id));
-    setList(list.map((l) => (l.id === id ? { ...l, status: !l.status } : 1)));
+    setList(list.map((l) => (l.id === id ? { ...l, status: !l.status } : l)));
   };
   const callback = useCallback(handleToggle, [list]);
   return (
