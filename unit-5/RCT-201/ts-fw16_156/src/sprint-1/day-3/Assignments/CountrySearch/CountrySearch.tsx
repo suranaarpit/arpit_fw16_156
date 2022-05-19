@@ -31,7 +31,7 @@ const CountrySearch = () => {
           data.map((c) => (
             <div key={c.country}>
               <ul>
-                <li className="list-disc">{c.country}</li>
+                <li className="list-disc hover:bg-gray-100 cursor-pointer">{c.country}</li>
               </ul>
             </div>
           ))
