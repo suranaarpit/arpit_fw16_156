@@ -1,0 +1,7 @@
+.item{
+    grid-template-columns: repeat(2,1fr);
+}
+.appendDiv{
+    margin: auto;
+    margin-top: 25px;
+}
