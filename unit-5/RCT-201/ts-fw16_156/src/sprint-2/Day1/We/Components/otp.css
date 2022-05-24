@@ -1,0 +1,14 @@
+.otpcon{
+    width: fit-content;
+    margin: auto;
+}
+
+.OtpInp{
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+    /* padding-inline-start: 30px; */
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+}
