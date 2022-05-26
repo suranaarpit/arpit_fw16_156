@@ -1,0 +1,19 @@
+.btn {
+  padding: 10px;
+  border-radius: 5px;
+  color: whitesmoke;
+  cursor: pointer;
+  margin: 15px;
+}
+.borderred {
+  border: 1px solid crimson;
+}
+.ghost {
+  border: none;
+}
+.red {
+  background-color: crimson;
+}
+.green {
+  background-color: rgb(90, 204, 166);
+}
